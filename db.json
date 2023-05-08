@@ -1,0 +1,181 @@
+{
+  "sliderimages": [
+    {
+      "image": "https://images.pexels.com/photos/3985069/pexels-photo-3985069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "id": 1
+    },
+    {
+      "image": "https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg",
+      "id": 2
+    },
+    {
+      "image": "https://images.pexels.com/photos/10574804/pexels-photo-10574804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "id": 3
+    }
+  ],
+  "blog": [
+    {
+      "title": "vvv",
+      "image": "https://i.pinimg.com/564x/42/78/36/4278360ceacc0cb7c443284263062897.jpg",
+      "text": "hh",
+      "date": "vvv",
+      "id": 2
+    }
+  ],
+  "blogdetail": [
+    {
+      "title": "Üzünüzə qulluq edin",
+      "image": "http://localhost:3002/static/media/blogimg0.8840dec6ef5110de291a.png",
+      "text": "1112222",
+      "date": "30/04/23",
+      "id": 1
+    }
+  ],
+  "title": [
+    {
+      "title": "<p>mm<br></p>",
+      "id": 1
+    }
+  ],
+  "vision": [
+    {
+      "vision": "<p>Şirkət olaraq viziyonumuz fəaliyyət göstərdiyimiz sahədə öz &nbsp;effektivliyilə seçilən və yüksək iqtisadi göstəricilərə malik olan lider şirkət olmaqdır.Oz əməkdaşlarının maddi , həmçinin iş şəraitinin yaxşılaşdırılması sahəsində əməli işlər görür&nbsp;</p>",
+      "id": 1
+    }
+  ],
+  "mission": [
+    {
+      "mission": "<p>Azərbaycan pərakəndə satış sektorunda daim gənc və inovativ şirkət olaraq müştərilərə yüksək keyfiyyətli qida və qeyri-qida məhsullarını sərfəli qiymətlə və peşəkar xidmətlə təqdim edərək onların həyat rifahını qaldırırıq.</p>",
+      "id": 1
+    }
+  ],
+  "aboutstore": [
+    {
+      "aboutstore": "<p>2009-cu ildə yaranan \"ANC GROUP\" MMC-nin tərkibində fəaliyyət göstərən \"Bravo\" supermarketlər şəbəkəsi və “Port Baku Bazar” market hər zaman müştəri məmnuniyyətinin artırılması və xidmət səviyyəsinin yaxşılaşdırılması üçün çalışır.</p>",
+      "id": 1
+    }
+  ],
+  "discountnews": [
+    {
+      "discountnews": "<p><br></p>",
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "name": "Un və Qənnadı məhsulları",
+      "visible": false,
+      "id": 2
+    },
+    {
+      "name": "Süd məhsulları və Yumurtalar",
+      "visible": false,
+      "id": 3
+    },
+    {
+      "name": "Meyvə və Tərəvəz",
+      "visible": false,
+      "id": 4
+    },
+    {
+      "name": "Körpə və Uşaqlar",
+      "visible": false,
+      "id": 5
+    },
+    {
+      "name": "Baqqaliyə",
+      "visible": false,
+      "id": 6
+    },
+    {
+      "name": "İri məişət texnikası",
+      "visible": false,
+      "id": 7
+    },
+    {
+      "name": "Ev təmizləyici vasitələri",
+      "visible": false,
+      "id": 8
+    },
+    {
+      "name": "Şirniyyat",
+      "visible": false,
+      "id": 9
+    },
+    {
+      "name": "Məişət texnikası",
+      "visible": false,
+      "id": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 18,
+      "img": "https://www.adobe.com/express/feature/image/media_16ad2258cac6171d66942b13b8cd4839f0b6be6f3.png?width=2000&format=webply&optimize=medium",
+      "name": "sokolad",
+      "price": "3",
+      "category": "Un və qənnadı məhsulları"
+    },
+    {
+      "name": "Meyve",
+      "price": "5",
+      "img": "https://i.pinimg.com/564x/25/9f/7e/259f7e3eced3ecd4185b8b3d5fb9aad1.jpg",
+      "category": "Meyvə və Tərəvəz",
+      "id": 19
+    },
+    {
+      "name": "tort",
+      "price": "999",
+      "img": "https://i.pinimg.com/564x/97/67/37/97673721416cc6025a21c4c414030497.jpg",
+      "category": "Məişət texnikası",
+      "id": 20
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Zumrud",
+      "email": "zumrudbaxshaliyeva@gmail.com",
+      "password": "zumrud123456",
+      "isAdmin": true
+    },
+    {
+      "id": 2,
+      "username": "Elyana",
+      "email": "elyana@gmail.com",
+      "password": "elyana123456",
+      "isAdmin": false
+    },
+    {
+      "id": 3,
+      "username": "Xaliqe",
+      "email": "xaliqe@gmail.com",
+      "password": "xaliqe123456",
+      "isAdmin": false
+    }
+  ],
+  "order": [
+    {
+      "infos": {
+        "id": 1,
+        "fullName": "zumrud",
+        "email": "zumrudbaxsaliyeva@gmail.com",
+        "phone": "9999999999999999999",
+        "card": "55555555555555555",
+        "region": "6",
+        "address": "wlopqpodwj",
+        "note": "hi everyone"
+      },
+      "products": [
+        {
+          "id": 19,
+          "img": "https://i.pinimg.com/564x/97/67/37/97673721416cc6025a21c4c414030497.jpg",
+          "name": "qatiq",
+          "price": "3.5",
+          "count": 1
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
